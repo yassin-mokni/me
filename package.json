@@ -6,6 +6,7 @@
     "scripts": {
         "deploy": "gh-pages -d dist "
     },
+    "main": "index.html",
     "homepage": "https://yassinmk.github.io/me/",
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.3.1",
